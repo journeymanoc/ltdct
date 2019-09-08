@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game engineVersion="1">
+    <meta>
+        <id>ltdct</id>
+        <name>Long-Term Discreet Chastity Training</name>
+        <version>1</version>
+        <author>@journeymanoc</author>
+        <description>
+            This is a long-term roulette aimed to make you learn to orgasm from anal.
+            There are no required daily tasks, but you have to earn the ability to orgasm form penile stimulation.
+            During this roulette, you must be locked in a chastity cage, unless the current <i>days remaining</i> count is 0 or lower.
+            Every day, the <i>days remaining</i> count will be automatically decremented by one.
+            You can also lower the <i>days remaining</i> count by completing optional daily tasks.
+            The more orgasms you have, the longer you will have to wait for the next one.
+        </description>
+        <changelog>
+            <!-- Changes in versions, may contain spoilers -->
+        </changelog>
+        <pathToMainScript>src/main.lua</pathToMainScript>
+    </meta>
+</game>
