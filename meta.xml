@@ -8,14 +8,15 @@
         <description>
             This is a long-term roulette aimed to make you learn to orgasm from anal.
             There are no required daily tasks, but you have to earn the ability to orgasm form penile stimulation.
-            During this roulette, you must be locked in a chastity cage, unless the current <i>days remaining</i> count is 0 or lower.
-            Every day, the <i>days remaining</i> count will be automatically decremented by one.
-            You can also lower the <i>days remaining</i> count by completing optional daily tasks.
+            During this roulette, you must be locked in a chastity cage, unless the current days remaining count is 0 or lower.
+            Every day, the days remaining count will be automatically decremented by one.
+            You can also lower the days remaining count by completing optional daily tasks.
             The more orgasms you have, the longer you will have to wait for the next one.
         </description>
         <changelog>
             <!-- Changes in versions, may contain spoilers -->
         </changelog>
         <pathToMainScript>src/main.lua</pathToMainScript>
+        <pathToLogo>assets/64.png</pathToLogo>
     </meta>
 </game>
